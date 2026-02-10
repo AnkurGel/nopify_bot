@@ -30,8 +30,8 @@ Built with **TypeScript**, **[grammY](https://grammy.dev)**, and **Cloudflare Wo
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/your-username/naas-tg-bot.git
-cd naas-tg-bot
+git clone https://github.com/AnkurGel/nopify_bot.git
+cd nopify_bot
 npm install
 ```
 
